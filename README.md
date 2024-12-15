@@ -36,17 +36,17 @@
 
 ## 🗓️ Chronologie
 
-1. **Phase de planification** (1 semaine) 📝
+1. **Phase de planification** (30min) 📝
    - Rédaction du cahier des charges.
    - Recherche sur les règles et les mécaniques du jeu.
-2. **Phase de développement** (2 semaines) 💻
+2. **Phase de développement** (1 semaine) 💻
    - Implémentation de la logique du jeu en JavaScript.
    - Conception de l'interface utilisateur.
    - Intégration des styles CSS.
-3. **Phase de test** (1 semaine) 🔍
+3. **Phase de test** (1h) 🔍
    - Tests unitaires des fonctionnalités.
    - Correction des bugs et amélioration de l'ergonomie.
-4. **Phase de finalisation** (1 semaine) 🏁
+4. **Phase de finalisation** (20min) 🏁
    - Optimisation du code.
    - Documentation et mise en ligne du projet.
 
