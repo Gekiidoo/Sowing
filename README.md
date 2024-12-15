@@ -27,7 +27,7 @@
 - **Responsable du projet / développeur principal** : [Cordonin Tom] ✨
   - Implémentation des règles du jeu en JavaScript.
   - Gestion de la logique de fin de partie et de réinitialisation.
-- **Designer UX/UI** : [DAll E - chatgpt ] 🎨
+- **Designer UX/UI** : [DAll E - chatgpt - canva] 🎨
   - Conception de l'interface utilisateur.
   - Création des styles CSS pour un design attrayant.
 - **Testeur** : [Cordonin Tom] 🧪
