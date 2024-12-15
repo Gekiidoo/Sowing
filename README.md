@@ -24,13 +24,13 @@
 ## 👥 Composition de l'équipe
 
 ### Équipe de développement
-- **Responsable du projet / développeur principal** : [Votre nom] ✨
+- **Responsable du projet / développeur principal** : [Cordonin Tom] ✨
   - Implémentation des règles du jeu en JavaScript.
   - Gestion de la logique de fin de partie et de réinitialisation.
-- **Designer UX/UI** : [Nom du membre de l'équipe] 🎨
+- **Designer UX/UI** : [DAll E - chatgpt ] 🎨
   - Conception de l'interface utilisateur.
   - Création des styles CSS pour un design attrayant.
-- **Testeur** : [Nom du membre de l'équipe] 🧪
+- **Testeur** : [Cordonin Tom] 🧪
   - Validation des règles du jeu et des différents cas limites.
   - Tests sur différents navigateurs.
 
