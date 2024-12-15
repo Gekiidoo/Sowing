@@ -62,7 +62,7 @@
 ### 🛠️ Outils utilisés
 - **Visual Studio Code** : Éditeur de code principal.
 - **Git** : Suivi des versions.
-- **Canva** : Conception initiale du design UI.
+- **Chatgpt**: aide pour le developpement du projet.
 
 ## 🚀 État actuel du projet et perspectives
 
