@@ -81,6 +81,8 @@
 4. **Historique des scores** 🏆 :
    - Ajouter une fonctionnalité pour suivre les performances des joueurs sur plusieurs parties.
 
+### 📃 Projet en détail
+ - [Google docs du projet](https://docs.google.com/document/d/15cq6CzhTtgqxQ5mehyUxOJ40iSZKcgwWvNOP2bisHDs/edit?usp=sharing)
 ---
 
 > **Remarque** : Toute suggestion ou contribution est la bienvenue. N'hésitez pas à ouvrir une issue ou une pull request pour participer au développement de ce projet ! 🙌
