@@ -1,4 +1,4 @@
-# 🌱 Sowing - Jeu de semis 🎮
+# 🌱 Sowing 
 
 ## 🌟 Genèse
 
